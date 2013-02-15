@@ -1,7 +1,7 @@
 Sudoku
 ======
 
-            Author: James Mack
+Author: James Mack
 Project Start Date: 2008-10-25
 
 Description
@@ -14,3 +14,9 @@ I began it in 2008 and haven't done any work on it since. I thought it worked pr
 Going to fix it soon as time allows.
 
 Even when I fix it, it's likely to remain a fairly naive solution and not at all efficient.
+
+To Do
+-----
+
+* Cleanup Code (learned a lot in the last 5 years, can probably fix things)
+* Fix to solve all puzzles
