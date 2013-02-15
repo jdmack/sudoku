@@ -4,6 +4,9 @@
 #
 #           Sudoku Checker v1.0
 #
+#               Author: James Mack
+#   Project Start Date: 2008-10-25
+#
 # This is a perl script that will take in a filename as an argument and input
 # a sudoku puzzle from the file, then checks to see if the its a valid 
 # solution.
