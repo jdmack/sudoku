@@ -1,9 +1,8 @@
 Sudoku
 ======
 
-Author: James Mack
-
-Project Start Date: 2008-10-25
+Author: James Mack  
+Date: 2008-10-25  
 
 Description
 -----------
