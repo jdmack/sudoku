@@ -2,7 +2,7 @@ Sudoku
 ======
 
 Author: James Mack  
-Date: 2008-10-25  
+Project Start Date: 2008-10-25  
 
 Description
 -----------
